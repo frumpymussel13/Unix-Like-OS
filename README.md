@@ -11,4 +11,4 @@ To Build, run build.sh or run,
 `qemu-system-i386 -fda build/main_floppy.img`
 
 <hr>
-FAQ: How Did I Make this? I used @nanobyte 's tutorial and https://wiki.osdev.org
+FAQ: How Did I Make this? I used @nanobyte 's (on yt) tutorial and https://wiki.osdev.org
